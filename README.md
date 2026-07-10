@@ -5,10 +5,10 @@ Official resource pack downloads for the EnergyWorkshop Minecraft server plugin.
 ## Current Version
 
 - Minecraft: 26.1.2
-- EnergyWorkshop: 0.19.0
-- Resource pack: `EnergyWorkshop-ResourcePack-0.19.0.zip`
-- SHA-1: `860a228be5575a6790746d92a214d51358bc8bc4`
+- EnergyWorkshop: 0.19.1
+- Resource pack: `EnergyWorkshop-ResourcePack-0.19.1.zip`
+- SHA-1: `7a179a03acbddc81d7d0d1d7063cd76edd0aa46a`
 
-Version 0.19.0 adds distinct shaped models for generators, batteries, monitors, processors, quarry rigs, solar panels, wind turbines, lumber mills, and quest terminals.
+Version 0.19.1 uses a non-occluding transparent carrier for shaped machines, fixing see-through faces on adjacent blocks.
 
 The Minecraft server downloads this file automatically when a player joins.
