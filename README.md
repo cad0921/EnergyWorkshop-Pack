@@ -5,10 +5,10 @@ Official resource pack downloads for the EnergyWorkshop Minecraft server plugin.
 ## Current Version
 
 - Minecraft: 26.1.2
-- EnergyWorkshop: 0.20.15
-- Resource pack: `EnergyWorkshop-ResourcePack-0.20.12.zip`
-- SHA-1: `f5363d122961f6e5d366c79c7bbd1dd1f159a81b`
+- EnergyWorkshop: 0.20.16
+- Resource pack: `EnergyWorkshop-ResourcePack-0.20.13.zip`
+- SHA-1: `5aeb73ac4353010dae179e541f60e884990ad4b0`
 
-Version 0.20.12 fixes the cyber 3D attachment textures and reduces their scale for a cleaner prototype.
+Version 0.20.13 adds SpecialCrops item textures and four staged tomato plant models while retaining all EnergyWorkshop and armor assets.
 
 The Minecraft server downloads this file automatically when a player joins.
