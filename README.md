@@ -6,9 +6,9 @@ Official resource pack downloads for the EnergyWorkshop Minecraft server plugin.
 
 - Minecraft: 26.1.2
 - EnergyWorkshop: 0.18.0
-- Resource pack: `EnergyWorkshop-ResourcePack-0.18.1.zip`
-- SHA-1: `d4ad40824133bb0beee3467779e76962a9afb338`
+- Resource pack: `EnergyWorkshop-ResourcePack-0.18.2.zip`
+- SHA-1: `b3c66b4fad4de971ff5258582546b7e55b75f525`
 
-Version 0.18.1 fixes the invisible carrier model used by the shaped lumber mill, removing the purple-and-black missing-model cube.
+Version 0.18.2 keeps every lumber mill texture on one atlas, fixes the wind turbine UV bounds, and uses the current 26.1.2 pack metadata format.
 
 The Minecraft server downloads this file automatically when a player joins.
