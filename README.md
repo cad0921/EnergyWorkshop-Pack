@@ -5,10 +5,10 @@ Official resource pack downloads for the EnergyWorkshop Minecraft server plugin.
 ## Current Version
 
 - Minecraft: 26.1.2
-- EnergyWorkshop: 0.20.0
-- Resource pack: `EnergyWorkshop-ResourcePack-0.20.0.zip`
-- SHA-1: `d141a2a8e77087db0a8611866251302d6a3e32ff`
+- EnergyWorkshop: 0.20.1
+- Resource pack: `EnergyWorkshop-ResourcePack-0.20.1.zip`
+- SHA-1: `b0da0d5dc83f04f186ab3c6d6a27139c7f401513`
 
-Version 0.20.0 replaces the full-cube energy wire with a six-way copper conduit and central junction model.
+Version 0.20.1 renders only the energy-conduit arms that have an adjacent energy-network connection.
 
 The Minecraft server downloads this file automatically when a player joins.
