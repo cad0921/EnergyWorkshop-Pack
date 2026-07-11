@@ -6,10 +6,10 @@ Official resource pack downloads for the EnergyWorkshop Minecraft server plugin.
 
 - Minecraft: 26.2
 - EnergyWorkshop: 0.20.23
-- ServerCore: 0.30.0
-- Resource pack: `EnergyWorkshop-ResourcePack-0.20.27.zip`
-- SHA-1: `cbbc0a64403c84139b83ba55118a7a9c9d95fe70`
+- ServerCore: 0.31.0
+- Resource pack: `EnergyWorkshop-ResourcePack-0.20.28.zip`
+- SHA-1: `573bd20ce73dfbba073ac2030d61537b63e50896`
 
-Version 0.20.27 adds 16 Nether-lava and End-void fish for a 52-species catalog while preserving the flowering-azalea fix and all existing assets.
+Version 0.20.28 expands the collection to 200 distinct 128x128 fish while preserving the flowering-azalea fix and all existing assets.
 
 The Minecraft server downloads this file automatically when a player joins.
