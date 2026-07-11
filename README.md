@@ -6,9 +6,9 @@ Official resource pack downloads for the EnergyWorkshop Minecraft server plugin.
 
 - Minecraft: 26.1.2
 - EnergyWorkshop: 0.20.16
-- Resource pack: `EnergyWorkshop-ResourcePack-0.20.17.zip`
-- SHA-1: `41a9006352c9d50d7aca373796e4c16cc51796e5`
+- Resource pack: `EnergyWorkshop-ResourcePack-0.20.18.zip`
+- SHA-1: `bd6a7e2f84c46b286a56b72a0178ecefb918737a`
 
-Version 0.20.17 fixes the resource-pack ZIP paths so Minecraft can load the models and textures.
+Version 0.20.18 keeps the corrected ZIP paths and gives strawberry, grape, blueberry, and watermelon seeds distinct SpecialCrops item textures.
 
 The Minecraft server downloads this file automatically when a player joins.
